@@ -1,8 +1,8 @@
 [
   {
-    "Title": "Ghost web version 1.6.4",
-    "Massges": "گوست وب 1.6.4\n\nگوست وب 1.6.3\n\n- رفع باگ های گزارش شده\n- بهبود گرافیک\n- بهبود عمل کرد برنامه",
-    "Version": "1.6.4",
-    "Link": "https://myket.ir/app/Ninja.coder.Ghostemane.code"
+    "Title": "Ghost ide",
+    "Massges": " Ghost ide 1.6.4 beta\n\n\n- Fixed theme installation error\n- Data installation permissions\n- Improved graphics and performance thanks @skinvent\n- Fixed reported errors\n- Powerful analyst like AIDE\n- Fixed error creating Android and Gradle projects module\n- Added JSON to Java & KT Data Class\n- and other bugs\n- add theme preview",
+    "Version": "1.6.4beta",
+    "Link": "https://github.com/HanzoDev1375/Ghostide/releases/tag/1.6.4beta"
   }
 ]
