@@ -4,6 +4,6 @@
   "sizearm64": "170mb",
   "title": "test",
   "linkarm32": "it1",
-  "linkarm64": "it2",
+  "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/1.6.4beta/ghostide-arm64beta-release.apk",
   "showbar": true 
 }
