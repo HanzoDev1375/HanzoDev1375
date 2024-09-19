@@ -6,6 +6,6 @@
     "title": "Upgr app by ninja, coder",
     "linkarm32": "no",
     "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/1.6.4beta/ghostide-arm64beta-release.apk",
-    "showbar": false
+    "showbar": true
   }
 ]
