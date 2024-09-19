@@ -2,7 +2,7 @@
   {
     "Title": "Ghost ide",
     "Massges": " Ghost ide 1.6.4 beta\n\n\n- Fixed theme installation error\n- Data installation permissions\n- Improved graphics and performance thanks @skinvent\n- Fixed reported errors\n- Powerful analyst like AIDE\n- Fixed error creating Android and Gradle projects module\n- Added JSON to Java & KT Data Class\n- and other bugs\n- add theme preview",
-    "Version": "1.6.4beta",
+    "Version": "1.6.5beta",
     "Link": "https://github.com/HanzoDev1375/Ghostide/releases/tag/1.6.4beta"
   }
 ]
