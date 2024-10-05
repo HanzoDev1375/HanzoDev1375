@@ -1,10 +1,10 @@
 [
   {
     "Title": "Ghost ide",
-    "Massges": " Ghost ide 1.6.4 beta\n\n\n- Fixed theme installation error\n- Data installation permissions\n- Improved graphics and performance thanks @skinvent\n- Fixed reported errors\n- Powerful analyst like AIDE\n- Fixed error creating Android and Gradle projects module\n- Added JSON to Java & KT Data Class\n- and other bugs\n- add theme preview",
-    "Version": "1.6.5beta",
+    "Massges": "### Ghost ide version 1.6.5\n\n- Fixed reported errors\n- Improved app performance\n- Update app theme according to languages\n- Improved app UI\n- Update from SDK 29 to 34\n\n### Note\n\n- Note If you are a new user of the program, first give permission to the file, then exit the program and log in again. This is for Android users 11 and above.\n- Install the program according to your CPU If you do not know what your CPU architecture is, get help from the `CPU-Z` program",
+    "Version": "1.6.5",
     "sizearm64": "170mb",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/1.6.4beta/ghostide-arm64beta-release.apk",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/1.6.5/ghostidearm64.apk",
     "appname": "ghostidearm64.apk"
   }
 ]
