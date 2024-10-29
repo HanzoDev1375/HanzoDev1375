@@ -2,9 +2,9 @@
   {
     "Title": "Ghost ide",
     "Massges": "### Ghost ide version 1.6.5\n\n- Fixed reported errors\n- Improved app performance\n- Update app theme according to languages\n- Improved app UI\n- Update from SDK 29 to 34\n\n### Note\n\n- Note If you are a new user of the program, first give permission to the file, then exit the program and log in again. This is for Android users 11 and above.\n- Install the program according to your CPU If you do not know what your CPU architecture is, get help from the `CPU-Z` program",
-    "Version": "1.6.5",
-    "sizearm64": "170mb",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/1.6.5/ghostidearm64.apk",
+    "Version": "1.6.6",
+    "sizearm64": "nodatafromtest",
+    "linkarm64": "",
     "appname": "ghostidearm64.apk"
   }
 ]
