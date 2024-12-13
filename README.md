@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello <br>im Ninja coder <br>im dev java kt ruby c cpp antlr4<br>my age 27 year
+Hello <br>im Ninja coder <br>im dev java kt ruby c cpp antlr4<br>my age 28 year
 
 
 # 💻 Tech Stack:
