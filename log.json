@@ -1,10 +1,10 @@
 [
   {
     "Title": "Ghost ide",
-    "Massges": "What's up?\nYou no longer need to install the theme file by default. If you need a custom theme, you can apply the theme settings.\nPerformance improvement\nAdded search load does not work in the current file activity but is activated in the future\nAdded JavaC to run JJ or JJT files\nImprove programming languages in the program\nAdd new card shorts such as ./ Background displays in html section\nImproved performance in right-wing languages, such as Persian, this feature is still working and will be fixed soon.\nNote\nIf you are installing Ghost ID for the first time, be sure to allow the file to install the required data, then exit the program and re-enter the program.",
-    "Version": "1.6.6",
-    "sizearm64": "171mb",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/1.6.6/apparm64release.apk",
+    "Massges": "see result from github",
+    "Version": "2.0.0",
+    "sizearm64": "175mb",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
   }
 ]
