@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello <br>im Ninja coder <br>im dev java kt ruby c cpp antlr4<br>my age 28 year
+Hello **im Ninja coder** im dev **java kt ruby c cpp antlr4** my age **29** year
 
 
 # 💻 Tech Stack:
@@ -8,11 +8,6 @@ Hello <br>im Ninja coder <br>im dev java kt ruby c cpp antlr4<br>my age 28 year
 ![](https://github-readme-stats.vercel.app/api?username=HanzoDev1375&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HanzoDev1375&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanzoDev1375&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HanzoDev1375&icon=6&color=2)](https://visitcount.itsvg.in)
