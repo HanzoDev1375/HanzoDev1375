@@ -2,8 +2,8 @@
   {
     "Title": "Ghost ide",
     "Massges": "see result from github",
-    "Version": "2.0.0",
-    "sizearm64": "175mb",
+    "Version": "2.0.2",
+    "sizearm64": "",
     "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
   }
