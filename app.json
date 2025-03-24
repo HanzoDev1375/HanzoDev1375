@@ -6,7 +6,7 @@
     "title": "test",
     "linkarm32": "no",
     "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
-    "showbar": false,
-    "version": "2.0.0"
+    "showbar": true,
+    "version": "2.0.3"
   }
 ]
