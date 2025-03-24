@@ -1,11 +1,1 @@
-[
-  {
-    "appname": "ghostide.apk",
-    "sizearm32": "180mb",
-    "sizearm64": "173mb",
-    "title": "Ghost IDE\n\nBug fixes\nAdded jadx decompiler\nAdded try catch\nAdded Java instantiation\nImproved graphics\nAdded null checking in Java\nAdded 8-level colored brackets in html css",
-    "linkarm32": "no",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
-    "showbar": true
-  }
-]
+[{"appname":"ghostide.apk","sizearm32":"180mb","sizearm64":"173mb","title":"عنوان جدید","linkarm32":"no","linkarm64":"https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk","showbar":true,"version":"ورژن جدید"}]
