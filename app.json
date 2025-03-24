@@ -1,12 +1,10 @@
 [
   {
-    "appname": "ghostide.apk",
-    "sizearm32": "180mb",
-    "sizearm64": "173mb",
-    "title": "test",
-    "linkarm32": "no",
+    "Title": "Ghost ide",
+    "Massges": "see result from github",
+    "Version": "2.0.3",
+    "sizearm64": "",
     "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
-    "showbar": true,
-    "version": "2.0.3"
+    "appname": "ghostidearm64.apk"
   }
 ]
