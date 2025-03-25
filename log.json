@@ -2,7 +2,7 @@
   {
     "Title": "Ghost ide",
     "Massges": "این یک تست است برای نتیجه گیری انتقال داده به گیت هاب",
-    "Version": "2.0.2",
+    "Version": "2.0.0",
     "sizearm64": "180mb",
     "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
