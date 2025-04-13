@@ -1,10 +1,10 @@
 [
   {
     "Title": "Ghost ide",
-    "Massges": "این یک تست است برای نتیجه گیری انتقال داده به گیت هاب",
-    "Version": "2.0.0",
+    "Massges": "Ghost IDE Version 2.0.1\n\nAdded snippets for all fixed models\nAdded custom cursor in the home folder path, you can add your own photos with the appropriate size\nAdded font and theme photo store\nAdded Kotlin listOf mapOf highlighting and small fonts\nAdded sizer, just type in html, 2 attribute lists will be displayed, 2px 2em and... \nAdded new tab in the activity editor code\nImproved application transition animations\nAdded GitHub login requires a token (do not share your token with anyone) The security of your token in Ghost IDE is guaranteed by strong encryption\nImproved graphics in settings\nAdded class to java automatically\nAdded smali to java to activate in the editor code, press the gear icon to activate it\nFixed Java tool item bugs, perform the above operation to understand more\nFixed the bug of creating getters and setters in tool item\nImproved loading  Image loading\nImproved loading images from file path Custom icons from file\nFixed program bugs",
+    "Version": "2.0.1",
     "sizearm64": "180mb",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.0/app-arm64-release.apk",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.1/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
   }
 ]
