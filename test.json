@@ -1,0 +1,32 @@
+{
+  "theme_name": "amber",
+  "colors": {
+    "primary": "#FFA000",
+    "onPrimary": "#FFFFFF",
+    "primaryContainer": "#FFECB3",
+    "onPrimaryContainer": "#212121",
+    "secondary": "#FFC107",
+    "onSecondary": "#000000",
+    "secondaryContainer": "#FFF8E1",
+    "onSecondaryContainer": "#212121",
+    "tertiary": "#FFE082",
+    "onTertiary": "#000000",
+    "tertiaryContainer": "#FFF3E0",
+    "onTertiaryContainer": "#212121",
+    "error": "#D32F2F",
+    "onError": "#FFFFFF",
+    "errorContainer": "#FFCDD2",
+    "onErrorContainer": "#212121",
+    "background": "#121212",
+    "onBackground": "#FFFFFF",
+    "surface": "#1E1E1E",
+    "onSurface": "#FFFFFF",
+    "surfaceVariant": "#424242",
+    "onSurfaceVariant": "#EEEEEE",
+    "outline": "#757575",
+    "outlineVariant": "#BDBDBD",
+    "inverseSurface": "#2D2D2D",
+    "inverseOnSurface": "#000000",
+    "inversePrimary": "#FFD54F"
+  }
+}
