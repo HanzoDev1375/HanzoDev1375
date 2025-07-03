@@ -4,7 +4,7 @@
     "Massges": "Ghost ide v 2.0.2\n\n- Fixed reported errors\n- Improved graphics\n- Added background to themes\n- Added caching of theme backgrounds\nand many other features..",
     "Version": "2.0.2",
     "sizearm64": " 185 mb arm 64",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.1/app-arm64-release.apk",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.2/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
   }
 ]
