@@ -1,12 +1,12 @@
 [
   {
     "Title": "Ghost ide",
-    "Massges": "Ghost ide v 2.0.2\n\n- Fixed reported errors\n- Improved graphics\n- Added background to themes\n- Added caching of theme backgrounds\nand many other features..",
+    "Massges": "Ghost ide v 2.0.3\n\nWhat's new?\nGraphics improvements\nBug fixes\nAdded html to css class\nAnd a bunch of other features...",
     "Version": "2.0.3",
-    "sizearm32":"sub!",
-    "linkarm32":"sub",
-    "sizearm64": " 185 mb arm 64",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.2/app-arm64-release.apk",
-    "appname": "ghostidearm64.apk"
+    "sizearm32": "203 mb",
+    "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.3/app-arm32-release.apk",
+    "sizearm64": "193 mb",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.3/app-arm64-release.apk",
+    "appname": "ghostidearm.apk"
   }
 ]
