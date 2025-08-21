@@ -7,6 +7,6 @@
     "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.3/app-arm32-release.apk",
     "sizearm64": "193 mb",
     "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.3/app-arm64-release.apk",
-    "appname": "ghostidearm.apk"
+    "appname": "ghostidearm64.apk"
   }
 ]
