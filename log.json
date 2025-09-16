@@ -1,12 +1,12 @@
 [
   {
     "Title": "Ghost ide",
-    "Massges": "Ghost ide v 2.0.3\n\nWhat's new?\nGraphics improvements\nBug fixes\nAdded html to css class\nAnd a bunch of other features...",
-    "Version": "2.0.3",
-    "sizearm32": "203 mb",
-    "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.3/app-arm32-release.apk",
-    "sizearm64": "193 mb",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.3/app-arm64-release.apk",
+    "Massges": "Ghost IDE 2.0.4\nWhat's new?\n- Fixed project compression error\n- Improved app performance\n- Improved translations\n- Improved UI\n- Fixed permission error on Android 14 and 15\n- Added glowing effects\nand more...",
+    "Version": "2.0.4",
+    "sizearm32": "209 mb",
+    "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.4/app-arm32-release.apk",
+    "sizearm64": "199 mb",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.4/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
   }
 ]
