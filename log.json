@@ -1,12 +1,12 @@
 [
   {
     "Title": "Ghost ide",
-    "Massges": "👻 Ghost IDE v2.0.5\n\n✨ What's New?\n\n- 🐍 Fixed Python script runner crash\n- 💾 Fixed annoying auto-save dialog issue\n- 📥 Fixed internal app update downloader error\n- 🛍️ Added Web Store feature\n- 🎨 Fixed corrupted theme detection that prevented theme loading\n- 🌄 Fixed background loading issue on some devices\n- 🎥 Added Live Video Backgrounds (MP4 only)\n- ⚙️ Added custom background size and theme size settings (Theme section only)\n- 🧠 Improved Python LSP performance\n\n🚀 General optimizations and bug fixes\n🔧 Improved overall stability and performance",
-    "Version": "2.0.5",
-    "sizearm32": "199 mb",
-    "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.5/app-arm32-release.apk",
-    "sizearm64": "196 mb",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.5/app-arm64-release.apk",
+    "Massges": "# 🚀 Ghost IDE 2.0.6\n\n## ✨ What's New\n\n- 🐞 Fixed reported bugs  \n- 🔌 Added plugin support  \n- 🛠️ Fixed project build errors  \n- 🧩 Added new API project getters  \n\n---\nEnjoy a smoother and more powerful development experience with **Ghost IDE 2.0.6**.",
+    "Version": "2.0.6",
+    "sizearm32": "218 mb",
+    "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm32-release.apk",
+    "sizearm64": "183 mb not node js",
+    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm64-release.apk",
     "appname": "ghostidearm64.apk"
   }
 ]
