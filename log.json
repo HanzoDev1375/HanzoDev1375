@@ -1,12 +1,10 @@
-[
-  {
-    "Title": "Ghost ide",
-    "Massges": "# 🚀 Ghost IDE 2.0.6\n\n## ✨ What's New\n\n- 🐞 Fixed reported bugs  \n- 🔌 Added plugin support  \n- 🛠️ Fixed project build errors  \n- 🧩 Added new API project getters  \n\n---\nEnjoy a smoother and more powerful development experience with **Ghost IDE 2.0.6**.",
-    "Version": "2.0.6",
-    "sizearm32": "218 mb",
-    "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm32-release.apk",
-    "sizearm64": "183 mb not node js",
-    "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm64-release.apk",
-    "appname": "ghostidearm64.apk"
-  }
-]
+{
+  "title": "Ghost ide",
+  "massges": "# 🚀 Ghost IDE 2.0.6\n\n## ✨ What's New\n\n- 🐞 Fixed reported bugs  \n- 🔌 Added plugin support  \n- 🛠️ Fixed project build errors  \n- 🧩 Added new API project getters  \n\n---\nEnjoy a smoother and more powerful development experience with **Ghost IDE 2.0.6**.",
+  "version": "2.0.6",
+  "sizearm32": "218 mb",
+  "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm32-release.apk",
+  "sizearm64": "183 mb not node js",
+  "linkarm64": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm64-release.apk",
+  "appname": "ghostidearm64.apk"
+}
