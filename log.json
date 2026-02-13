@@ -1,7 +1,7 @@
 {
   "title": "Ghost ide",
-  "massges": "# 🚀 Ghost IDE 2.0.6\n\n## ✨ What's New\n\n- 🐞 Fixed reported bugs  \n- 🔌 Added plugin support  \n- 🛠️ Fixed project build errors  \n- 🧩 Added new API project getters  \n\n---\nEnjoy a smoother and more powerful development experience with **Ghost IDE 2.0.6**.",
-  "version": "2.0.6",
+  "massges": "Ghost Idea Version 2.0.7\nWhat's new?\n- Added image viewer in the form of a slider\n- Improved graphics\n- Improved program speed\n- Added list filter and global search with the ability to click on the file and open the file\n- Fixed an error entering the program\n- Added new APIs for developers \neditor.addDiagnostic(Diagnostic.class);\neditor.removeDiagnostic(Diagnostic.class);\neditor.clearDiagnostics();\neditor.setDiagnostic(List<Diagnostic>);\n\n- Added github feed\n- Added github stared\n- Added Empty state\n- Added Link Preview\n- Added Ghost text(beta)",
+  "version": "2.0.7beta01",
   "sizearm32": "218 mb",
   "linkarm32": "https://github.com/HanzoDev1375/Ghostide/releases/download/2.0.6/app-arm32-release.apk",
   "sizearm64": "183 mb not node js",
